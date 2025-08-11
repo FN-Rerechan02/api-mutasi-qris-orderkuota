@@ -169,7 +169,7 @@ curl --location -g 'https://mutasi.rerechanstore.eu.org/api/history/jhondoe' \
 - Autentikasi menggunakan token JWT dengan skema Bearer
 - Data sensitif dienkripsi dalam transmisi (TLS 1.2+)
 - Pembatasan permintaan (100 permintaan/menit per IP)
-- Akses dicatat dan dipantau untuk aktivitas mencurigakan
+- Data akun orderkuota anda tidak dapat di akses oleh oranglain bahkan saya sekalipun.
 
 ---
 
